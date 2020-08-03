@@ -1,0 +1,25 @@
+{
+  "name": "learnblockchain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mukhopadhyaypinaki/learnblockchain.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mukhopadhyaypinaki/learnblockchain/issues"
+  },
+  "homepage": "https://github.com/mukhopadhyaypinaki/learnblockchain#readme",
+  "dependencies": {
+    "ganache-cli": "^6.9.1",
+    "mocha": "^8.1.0",
+    "solc": "^0.4.17",
+    "web3": "^1.0.0-beta.26"
+  }
+}
